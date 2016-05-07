@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PhotoMeter</string>
+    <string name="graphics">Graphic</string>
+    <string name="prog_settings">Settings</string>
+    <string name="console">Console</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="iptext">IP Address</string>
+    <string name="connect">Connect</string>
+    <string name="sensors">Sensors</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="conclosed">Connection closed</string>
+    <string name="measure">Measure</string>
+    <string name="con_error">Error while connecting to photometer. Check the Wi-Fi settings and try again. Maybe you should to switch off the mobile Internet, if photometer is Wi-Fi access point.</string>
+    <string name="meas_end">Measures ended</string>
+    <string name="con_success">Connection succesfully!!!</string>
+
+
+</resources>

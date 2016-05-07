@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фотометр</string>
+    <string name="graphics">График</string>
+    <string name="prog_settings">Настройки</string>
+    <string name="console">Консоль</string>
+    <string name="connect">Соединение</string>
+    <string name="iptext">IP Адрес</string>
+    <string name="sensors">Датчики</string>
+    <string name="disconnect">Отключиться</string>
+    <string name="conclosed">Соединение закрыто</string>
+    <string name="measure">Измерить</string>
+    <string name="con_error">Ошибка при соединении с фотометром. Проверьте соединение Wi-Fi и повторите попытку. Выключите мобильный интернет, если фотометр работает в режиме точки доступа.</string>
+    <string name="meas_end">Измерение окончено</string>
+    <string name="con_success">Подключение успешно!!!</string>
+</resources>
